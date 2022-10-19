@@ -1,0 +1,1 @@
+C# (Static Sınıf ve Üyeler)[https://app.patika.dev/courses/csharp-101/4-static-sinif-ve-uyeler]
